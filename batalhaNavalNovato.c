@@ -40,7 +40,7 @@ printf(" ");
         if (tabuleiro[i][j] == 0)
                     printf(" 0"); // agua
                 else
-                    printf(" x"); //navio
+                    printf(" 3"); //navio
         }
         printf("\n");    
     }
